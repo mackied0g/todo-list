@@ -1,0 +1,5 @@
+oatmilk = Todo.create(title: "Oatmilk", done: false)
+flour = Todo.create(title: "Flour", done: false)
+chickpeas = Todo.create(title: "Chickpeas", done: false)
+spinach = Todo.create(title: "Spinach", done: false)
+quinoa = Todo.create(title: "Quinoa", done: false)
